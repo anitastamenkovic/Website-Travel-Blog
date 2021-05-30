@@ -1,4 +1,3 @@
 # Travel Blog
- My Travel Blog
- Hello World
- 
+
+My Travel Blog
